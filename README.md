@@ -1,4 +1,4 @@
-![logo](https://github.com/Jitender-rana/Jitender-rana/blob/main/COMPUTER%20SCIENCE%20ENGINEER.png)
+![logo](https://github.com/Jitender-rana/Jitender-rana/blob/main/Black%20Minimal%20Business%20Personal%20Profile%20Linkedin%20Banner.gif)
 <h1 align="center">Hi 👋, I'm Jitender Rana</h1>
 <h3 align="center">A passionate Cloud Engineer from India</h3>
 <img align="right" alt="coding-image" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
